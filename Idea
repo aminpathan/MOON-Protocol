@@ -1,0 +1,20 @@
+You want to share huge amount of data files (videos, pics, etc) with your family and friends on mobile phone. However, the data plans are not economical to share huge files. 
+
+If your family or friends are in proximity then you can share the files using the mobile apps available on mobile app stores such as ShareIt or SuperBeam. But maybe you will think twice to share online on WhatsApp, FB, DropBox apps and look at the available data remaining on your mobile plan for the month to share huge files and start rationing data till the billing cycle ends.
+
+If there was a mobile app that uses a protocol to send data offline using WiFi signals and GPS position. For example, if User A wants to send a file to User B in another city.  Based on the GPS location of both the Users and using Google maps a shortest path would be decided to send the data packets using this app installed on other Users mobile phones in that path.  The path will be constantly getting update based on available active mobile apps. Also an alternate path would be created to send data packets if the former path reaches a dead end.
+
+If the data reaches a dead end while traveling it can use little amount of data from other User's mobile phone and inform the server and a new path can be decided on the go. Once the data packs reaches the final destination it can inform the server that the request is completed.
+
+So this is how a huge load of data can be sent using WiFi signals and small amounts of data can be used to inform the server on GPS location, path, dead end and reroute of data packs.
+
+I thought of this idea from the previous peer to peer sharing apps available during desktop era and if this would have to be done in mobile era how will this be possible. This mesh network will be success on the virility of the mobile apps installed on their mobile phone. The denser network is formed by installing the apps the stronger the protocol will become.
+
+The other application of this protocol can be in peer to peer transaction apps using bit coin wallets or banks wallet and also using block chain methodology to keep records of transaction in decentralized way. 
+
+This protocol can also be adopted by the likes of other social networking apps (FB, Twitter) where they can host a data collection point in each city so whatever you type on your social app will find its route to this collection point and your status update will reach their server and then your friends can see this update on their mobile apps. So you may not have to fly drones or put balloons in the sky to beam internet from the sky.
+
+This protocol technology can be very helpful in the developing countries where still the cost of mobile internet is high and maybe same is the case with the developed countries.
+
+A Wikipedia finance model and a nonprofit organization can be created to sponsor and run this project by annual donations and a community of coders can be incentivize to keep it updated and open sourced and neutral.
+
